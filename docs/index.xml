@@ -32,18 +32,7 @@
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
       <guid>http://kkyinli.github.io/notes/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
-    </item>
-    
-    <item>
-      <title>second</title>
-      <link>http://kkyinli.github.io/notes/post/second/</link>
-      <pubDate>Sun, 17 Dec 2017 13:31:57 +0800</pubDate>
-      
-      <guid>http://kkyinli.github.io/notes/post/second/</guid>
-      <description>This is my second post.</description>
+      <description>我的笔记 平时记录的点滴 It makes use of a variety of open source projects including: Mygithub Learn more and contribute on myGitHub.</description>
     </item>
     
     <item>
@@ -61,7 +50,7 @@ It makes use of a variety of open source projects including:
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
       <guid>http://kkyinli.github.io/notes/post/english-preview/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;introductions&#34;&gt;Introductions&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
 

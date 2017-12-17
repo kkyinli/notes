@@ -17,11 +17,11 @@
 
 
 <meta name="author" content="Michael Henderson" />
-  <meta name="description" content="Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+  <meta name="description" content="Introductions This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 
 " />
 
-  <meta name="keywords" content="Hugo, theme, even" />
+  <meta name="keywords" content="notes" />
 
 
 
@@ -47,7 +47,7 @@
 <link href="/notes/lib/fancybox/jquery.fancybox-3.1.20.min.css" rel="stylesheet">
 
 <meta property="og:title" content="English Creating a New Theme" />
-<meta property="og:description" content="Introduction
+<meta property="og:description" content="Introductions
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
 
@@ -72,7 +72,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 
 
 <meta itemprop="name" content="English Creating a New Theme">
-<meta itemprop="description" content="Introduction
+<meta itemprop="description" content="Introductions
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
 
@@ -87,7 +87,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 
 <meta itemprop="keywords" content="preview,English,tag-2," />
 <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="English Creating a New Theme"/>
-<meta name="twitter:description" content="Introduction
+<meta name="twitter:description" content="Introductions
 
 This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
 
@@ -106,7 +106,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 <body>
   <div id="mobile-navbar" class="mobile-navbar">
   <div class="mobile-header-logo">
-    <a href="/notes/" class="logo">YINLI</a>
+    <a href="/notes/" class="logo">yinli;s note</a>
   </div>
   <div class="mobile-navbar-icon">
     <span></span>
@@ -116,7 +116,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 </div>
 <nav id="mobile-menu" class="mobile-menu slideout-menu">
   <ul class="mobile-menu-list">
-    <a href="/notes/">
+    <a href="https://kkyinli.github.io/">
         <li class="mobile-menu-item">Home</li>
       </a><a href="/notes/post/">
         <li class="mobile-menu-item">Archives</li>
@@ -132,13 +132,13 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
   <div class="container" id="mobile-panel">
     <header id="header" class="header">
         <div class="logo-wrapper">
-  <a href="/notes/" class="logo">YINLI</a>
+  <a href="/notes/" class="logo">yinli;s note</a>
 </div>
 
 <nav class="site-navbar">
   <ul id="menu" class="menu">
     <li class="menu-item">
-        <a class="menu-item-link" href="/notes/">Home</a>
+        <a class="menu-item-link" href="https://kkyinli.github.io/">Home</a>
       </li><li class="menu-item">
         <a class="menu-item-link" href="/notes/post/">Archives</a>
       </li><li class="menu-item">
@@ -181,7 +181,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 <ul>
 <li>
 <ul>
-<li><a href="#introduction">Introduction</a></li>
+<li><a href="#introductions">Introductions</a></li>
 <li><a href="#some-definitions">Some Definitions</a>
 <ul>
 <li><a href="#skins">Skins</a></li>
@@ -260,7 +260,7 @@ This tutorial will show you how to create a simple theme in Hugo. I assume that 
 
     
     <div class="post-content">
-      <h2 id="introduction">Introduction</h2>
+      <h2 id="introductions">Introductions</h2>
 
 <p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.</p>
 
@@ -396,13 +396,13 @@ INFO: 2014/09/29 Using config file: config.toml
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
 WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content 
-0 future content 
-0 pages created 
+0 draft content
+0 future content
+0 pages created
 0 tags created
 0 categories created
 in 2 ms
-$ 
+$
 </code></pre>
 
 <p>The &ldquo;<code>--verbose</code>&rdquo; flag gives extra information that will be helpful when we build the template. Every line of the output that starts with &ldquo;INFO:&rdquo; or &ldquo;WARN:&rdquo; is present because we used that flag. The lines that start with &ldquo;WARN:&rdquo; are warning messages. We&rsquo;ll go over them later.</p>
@@ -426,7 +426,7 @@ $
 total 16
 -rw-r--r--  1 quoha  staff  416 Sep 29 17:02 index.xml
 -rw-r--r--  1 quoha  staff  262 Sep 29 17:02 sitemap.xml
-$ 
+$
 </code></pre>
 
 <p>Hugo created two XML files, which is standard, but there are no HTML files.</p>
@@ -440,9 +440,9 @@ INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 WARN: 2014/09/29 Unable to locate layout: [index.html _default/list.html _default/single.html]
 WARN: 2014/09/29 Unable to locate layout: [404.html]
-0 draft content 
-0 future content 
-0 pages created 
+0 draft content
+0 future content
+0 pages created
 0 tags created
 0 categories created
 in 2 ms
@@ -506,7 +506,7 @@ $ find themes -type f | xargs ls -l
 -rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/footer.html
 -rw-r--r--  1 quoha  staff     0 Sep 29 17:31 themes/zafta/layouts/partials/header.html
 -rw-r--r--  1 quoha  staff    93 Sep 29 17:31 themes/zafta/theme.toml
-$ 
+$
 </code></pre>
 
 <p>The skeleton includes templates (the files ending in .html), license file, a description of your theme (the theme.toml file), and an empty archetype.</p>
@@ -563,9 +563,9 @@ INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-0 pages created 
+0 draft content
+0 future content
+0 pages created
 0 tags created
 0 categories created
 in 2 ms
@@ -609,7 +609,7 @@ $
 <pre><code>$ find . -name index.html | xargs ls -l
 -rw-r--r--  1 quoha  staff  0 Sep 29 20:21 ./public/index.html
 -rw-r--r--  1 quoha  staff  0 Sep 29 17:31 ./themes/zafta/layouts/index.html
-$ 
+$
 </code></pre>
 
 <h4 id="the-magic-of-static">The Magic of Static</h4>
@@ -627,7 +627,7 @@ drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/layouts/partials
 drwxr-xr-x  4 quoha  staff  136 Sep 29 17:31 themes/zafta/static
 drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/css
 drwxr-xr-x  2 quoha  staff   68 Sep 29 17:31 themes/zafta/static/js
-$ 
+$
 </code></pre>
 
 <h2 id="the-theme-development-cycle">The Theme Development Cycle</h2>
@@ -682,9 +682,9 @@ INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-0 pages created 
+0 draft content
+0 future content
+0 pages created
 0 tags created
 0 categories created
 in 2 ms
@@ -696,9 +696,9 @@ INFO: 2014/09/29 File System Event: [&quot;/Users/quoha/Sites/zafta/themes/zafta
 Change detected, rebuilding site
 
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-0 pages created 
+0 draft content
+0 future content
+0 pages created
 0 tags created
 0 categories created
 in 1 ms
@@ -721,12 +721,12 @@ in 1 ms
 <p>Right now, that page is empty because we don&rsquo;t have any content and we don&rsquo;t have any logic in the template. Let&rsquo;s change that by adding some text to the template.</p>
 
 <pre><code>$ vi themes/zafta/layouts/index.html
-&lt;!DOCTYPE html&gt; 
-&lt;html&gt; 
-&lt;body&gt; 
-  &lt;p&gt;hugo says hello!&lt;/p&gt; 
-&lt;/body&gt; 
-&lt;/html&gt; 
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;body&gt;
+  &lt;p&gt;hugo says hello!&lt;/p&gt;
+&lt;/body&gt;
+&lt;/html&gt;
 :wq
 
 $
@@ -739,9 +739,9 @@ INFO: 2014/09/29 Using config file: /Users/quoha/Sites/zafta/config.toml
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /Users/quoha/Sites/zafta/public/
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-0 pages created 
+0 draft content
+0 future content
+0 pages created
 0 tags created
 0 categories created
 in 2 ms
@@ -749,11 +749,11 @@ in 2 ms
 $ find public -type f -name '*.html' | xargs ls -l
 -rw-r--r--  1 quoha  staff  78 Sep 29 21:26 public/index.html
 
-$ cat public/index.html 
-&lt;!DOCTYPE html&gt; 
-&lt;html&gt; 
-&lt;body&gt; 
-  &lt;p&gt;hugo says hello!&lt;/p&gt; 
+$ cat public/index.html
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;body&gt;
+  &lt;p&gt;hugo says hello!&lt;/p&gt;
 &lt;/html&gt;
 </code></pre>
 
@@ -761,15 +761,15 @@ $ cat public/index.html
 
 <p>Note: If you&rsquo;re running the server with the <code>--watch</code> option, you&rsquo;ll see different content in the file:</p>
 
-<pre><code>$ cat public/index.html 
-&lt;!DOCTYPE html&gt; 
-&lt;html&gt; 
-&lt;body&gt; 
-  &lt;p&gt;hugo says hello!&lt;/p&gt; 
-&lt;script&gt;document.write('&lt;script src=&quot;http://' 
-        + (location.host || 'localhost').split(':')[0] 
-    + ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/' 
-        + 'script&gt;')&lt;/script&gt;&lt;/body&gt; 
+<pre><code>$ cat public/index.html
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;body&gt;
+  &lt;p&gt;hugo says hello!&lt;/p&gt;
+&lt;script&gt;document.write('&lt;script src=&quot;http://'
+        + (location.host || 'localhost').split(':')[0]
+    + ':1313/livereload.js?mindelay=10&quot;&gt;&lt;/'
+        + 'script&gt;')&lt;/script&gt;&lt;/body&gt;
 &lt;/html&gt;
 </code></pre>
 
@@ -791,7 +791,7 @@ INFO: 2014/09/29 attempting to create  post/first.md of post
 INFO: 2014/09/29 curpath: /Users/quoha/Sites/zafta/themes/zafta/archetypes/default.md
 ERROR: 2014/09/29 Unable to Cast &lt;nil&gt; to map[string]interface{}
 
-$ 
+$
 </code></pre>
 
 <p>That wasn&rsquo;t very nice, was it?</p>
@@ -829,7 +829,7 @@ total 16
 -rw-r--r--  1 quoha  staff  104 Sep 29 21:54 first.md
 -rw-r--r--  1 quoha  staff  105 Sep 29 21:57 second.md
 
-$ cat content/post/first.md 
+$ cat content/post/first.md
 +++
 Categories = []
 Description = &quot;&quot;
@@ -840,7 +840,7 @@ title = &quot;first&quot;
 +++
 my first post
 
-$ cat content/post/second.md 
+$ cat content/post/second.md
 +++
 Categories = []
 Description = &quot;&quot;
@@ -851,7 +851,7 @@ title = &quot;second&quot;
 +++
 my second post
 
-$ 
+$
 </code></pre>
 
 <p>Build the web site and then verify the results.</p>
@@ -863,9 +863,9 @@ INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 INFO: 2014/09/29 found taxonomies: map[string]string{&quot;category&quot;:&quot;categories&quot;, &quot;tag&quot;:&quot;tags&quot;}
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-2 pages created 
+0 draft content
+0 future content
+2 pages created
 0 tags created
 0 categories created
 in 4 ms
@@ -896,7 +896,7 @@ $
 
 <p>The home page will contain a list of posts. Let&rsquo;s update its template to add the posts that we just created. The logic in the template will run every time we build the site.</p>
 
-<pre><code>$ vi themes/zafta/layouts/index.html 
+<pre><code>$ vi themes/zafta/layouts/index.html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;body&gt;
@@ -935,26 +935,26 @@ INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 INFO: 2014/09/29 found taxonomies: map[string]string{&quot;tag&quot;:&quot;tags&quot;, &quot;category&quot;:&quot;categories&quot;}
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-2 pages created 
+0 draft content
+0 future content
+2 pages created
 0 tags created
 0 categories created
 in 4 ms
-$ find public -type f -name '*.html' | xargs ls -l 
+$ find public -type f -name '*.html' | xargs ls -l
 -rw-r--r--  1 quoha  staff  94 Sep 29 22:23 public/index.html
 -rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/first/index.html
 -rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/index.html
 -rw-r--r--  1 quoha  staff   0 Sep 29 22:23 public/post/second/index.html
-$ cat public/index.html 
+$ cat public/index.html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;body&gt;
-  
+
     &lt;h1&gt;second&lt;/h1&gt;
-  
+
     &lt;h1&gt;first&lt;/h1&gt;
-  
+
 &lt;/body&gt;
 &lt;/html&gt;
 $
@@ -984,7 +984,7 @@ $
 
 <h4 id="update-the-template-file">Update the Template File</h4>
 
-<pre><code>$ vi themes/zafta/layouts/_default/single.html 
+<pre><code>$ vi themes/zafta/layouts/_default/single.html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -1009,9 +1009,9 @@ INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 INFO: 2014/09/29 found taxonomies: map[string]string{&quot;tag&quot;:&quot;tags&quot;, &quot;category&quot;:&quot;categories&quot;}
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-2 pages created 
+0 draft content
+0 future content
+2 pages created
 0 tags created
 0 categories created
 in 4 ms
@@ -1022,7 +1022,7 @@ $ find public -type f -name '*.html' | xargs ls -l
 -rw-r--r--  1 quoha  staff    0 Sep 29 22:40 public/post/index.html
 -rw-r--r--  1 quoha  staff  128 Sep 29 22:40 public/post/second/index.html
 
-$ cat public/post/first/index.html 
+$ cat public/post/first/index.html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -1035,7 +1035,7 @@ $ cat public/post/first/index.html
 &lt;/body&gt;
 &lt;/html&gt;
 
-$ cat public/post/second/index.html 
+$ cat public/post/second/index.html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;head&gt;
@@ -1076,9 +1076,9 @@ INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/themes/zafta/static/ to /
 INFO: 2014/09/29 syncing from /Users/quoha/Sites/zafta/static/ to /Users/quoha/Sites/zafta/public/
 INFO: 2014/09/29 found taxonomies: map[string]string{&quot;tag&quot;:&quot;tags&quot;, &quot;category&quot;:&quot;categories&quot;}
 WARN: 2014/09/29 Unable to locate layout: [404.html theme/404.html]
-0 draft content 
-0 future content 
-2 pages created 
+0 draft content
+0 future content
+2 pages created
 0 tags created
 0 categories created
 in 4 ms
@@ -1089,15 +1089,15 @@ $ find public -type f -name '*.html' | xargs ls -l
 -rw-r--r--  1 quoha  staff    0 Sep 29 22:44 public/post/index.html
 -rw-r--r--  1 quoha  staff  128 Sep 29 22:44 public/post/second/index.html
 
-$ cat public/index.html 
+$ cat public/index.html
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
 &lt;body&gt;
-  
+
     &lt;h1&gt;&lt;a href=&quot;/post/second/&quot;&gt;second&lt;/a&gt;&lt;/h1&gt;
-  
+
     &lt;h1&gt;&lt;a href=&quot;/post/first/&quot;&gt;first&lt;/a&gt;&lt;/h1&gt;
-  
+
 &lt;/body&gt;
 &lt;/html&gt;
 
@@ -1122,7 +1122,7 @@ $
 
 <p>The default in Hugo is to use the directory structure of the content/ directory to guide the location of the generated html in the public/ directory. Let&rsquo;s verify that by creating an &ldquo;about&rdquo; page at the top level:</p>
 
-<pre><code>$ vi content/about.md 
+<pre><code>$ vi content/about.md
 +++
 title = &quot;about&quot;
 description = &quot;about this site&quot;
@@ -1406,7 +1406,21 @@ $ vi themes/zafta/layouts/_default/single.html
   </article>
         </div>
         
-  
+  <div id="disqus_thread"></div>
+    <script type="text/javascript">
+    (function() {
+        
+        
+        if (window.location.hostname === 'localhost') return;
+
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        var disqus_shortname = 'kkyinli';
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com/" class="dsq-brlink" target="_blank">comments powered by <span class="logo-disqus">Disqus</span></a>
 
   
       </div>
@@ -1414,19 +1428,9 @@ $ vi themes/zafta/layouts/_default/single.html
 
     <footer id="footer" class="footer">
       <div class="social-links">
-      <a href="mailto:your@email.com" class="iconfont icon-email" title="email"></a>
-      <a href="http://localhost:1313" class="iconfont icon-stack-overflow" title="stack-overflow"></a>
-      <a href="http://localhost:1313" class="iconfont icon-twitter" title="twitter"></a>
-      <a href="http://localhost:1313" class="iconfont icon-facebook" title="facebook"></a>
-      <a href="http://localhost:1313" class="iconfont icon-linkedin" title="linkedin"></a>
-      <a href="http://localhost:1313" class="iconfont icon-google" title="google"></a>
-      <a href="http://localhost:1313" class="iconfont icon-github" title="github"></a>
-      <a href="http://localhost:1313" class="iconfont icon-weibo" title="weibo"></a>
-      <a href="http://localhost:1313" class="iconfont icon-zhihu" title="zhihu"></a>
-      <a href="http://localhost:1313" class="iconfont icon-douban" title="douban"></a>
-      <a href="http://localhost:1313" class="iconfont icon-pocket" title="pocket"></a>
-      <a href="http://localhost:1313" class="iconfont icon-tumblr" title="tumblr"></a>
-      <a href="http://localhost:1313" class="iconfont icon-instagram" title="instagram"></a>
+      <a href="kkyinli@gmail.com" class="iconfont icon-email" title="email"></a>
+      <a href="https://scholar.google.com.hk/citations?user=uK5KzdYAAAAJ&amp;hl=zh-CN" class="iconfont icon-google" title="google"></a>
+      <a href="https://github.com/kkyinli" class="iconfont icon-github" title="github"></a>
   <a href="http://kkyinli.github.io/notes/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
 
@@ -1446,7 +1450,7 @@ $ vi themes/zafta/layouts/_default/single.html
     <span class="heart">
       <i class="iconfont icon-heart"></i>
     </span>
-    <span class="author">YINLI</span>
+    <span class="author">Yin Li</span>
   </span>
 </div>
     </footer>

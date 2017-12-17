@@ -10,15 +10,14 @@ comment: false
 mathjax: false
 ---
 
-Hugo is a static site engine written in Go.
+我的笔记
+平时记录的点滴
+
 
 
 It makes use of a variety of open source projects including:
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+* [Mygithub](https://github.com/kkyinli)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
+Learn more and contribute on [myGitHub](https://github.com/kkyinli).
