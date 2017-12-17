@@ -1,7 +1,7 @@
 baseURL = "http://kkyinli.github.io/notes"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "YinLi's Notes"
+title = "YinLi's'Notes"
 publishDir = "docs"
 enableRobotsTXT = true
 enableEmoji = true
@@ -27,9 +27,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "home"
   url = "https://kkyinli.github.io/"
 [[menu.main]]
-  name = "Archives"
+  name = "Notes"
   weight = 20
-  identifier = "archives"
+  identifier = "notes"
   url = "/post/"
 [[menu.main]]
   name = "Tags"
@@ -48,7 +48,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   since = "2017"            # Site creation time          # 站点建立时间
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "yinli;s note"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "yinli_note"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["notes"]
   description = "Yinli's note site."
 
