@@ -1,211 +1,211 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://kkyinli.github.io/notes/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/even-preview/</loc>
+    <loc>http://kkyinli.github.io/notes/post/even-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://kkyinli.github.io/notes/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/first/</loc>
+    <loc>http://kkyinli.github.io/notes/post/second/</loc>
     <lastmod>2017-12-17T13:31:57+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/myfirstpost/</loc>
+    <loc>http://kkyinli.github.io/notes/post/myfirstpost/</loc>
     <lastmod>2017-12-17T13:31:08+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/english-preview/</loc>
+    <loc>http://kkyinli.github.io/notes/post/english-preview/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/japanese-preview/</loc>
+    <loc>http://kkyinli.github.io/notes/post/japanese-preview/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/chinese-preview/</loc>
+    <loc>http://kkyinli.github.io/notes/post/chinese-preview/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/syntax-highlighting/</loc>
+    <loc>http://kkyinli.github.io/notes/post/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/</loc>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/category-2/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/category-2/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/category-3/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/category-3/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/english/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/english/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/english/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://kkyinli.github.io/notes/post/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/preview/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/syntax-highlighting/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/syntax-highlighting/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/syntax-highlighting/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag-1/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/tag-1/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag-2/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/tag-2/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag-3/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/tag-3/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag-4/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/tag-4/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag-5/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/tag-5/</loc>
     <lastmod>2017-08-30T16:01:23+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/</loc>
     <lastmod>2017-08-31T15:43:48+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/theme-preview/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/theme-preview/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/theme-preview/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://kkyinli.github.io/notes/</loc>
     <lastmod>2017-08-23T18:03:09+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E4%B8%AD%E6%96%87/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E4%B8%AD%E6%96%87/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2017-08-30T01:37:56+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>http://kkyinli.github.io/notes/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
+    <loc>http://kkyinli.github.io/notes/categories/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
     <lastmod>2017-08-30T01:53:34+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>

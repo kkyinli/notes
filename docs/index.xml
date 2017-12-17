@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YinLi&#39;s Notes</title>
-    <link>http://localhost:1313/</link>
+    <link>http://kkyinli.github.io/notes/</link>
     <description>Recent content on YinLi&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 23 Aug 2017 18:03:09 +0800</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://kkyinli.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Theme preview</title>
-      <link>http://localhost:1313/post/even-preview/</link>
+      <link>http://kkyinli.github.io/notes/post/even-preview/</link>
       <pubDate>Wed, 23 Aug 2017 18:03:09 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/even-preview/</guid>
+      <guid>http://kkyinli.github.io/notes/post/even-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Copy from &lt;a href=&#34;https://laozhu.me/post/hugo-nuo-post-preview/&#34;&gt;《Hugo 主题 Nuo 文章样式预览》&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -28,10 +28,10 @@
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://kkyinli.github.io/notes/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://kkyinli.github.io/notes/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
@@ -39,28 +39,28 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>second</title>
-      <link>http://localhost:1313/post/first/</link>
+      <link>http://kkyinli.github.io/notes/post/second/</link>
       <pubDate>Sun, 17 Dec 2017 13:31:57 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/first/</guid>
+      <guid>http://kkyinli.github.io/notes/post/second/</guid>
       <description>This is my second post.</description>
     </item>
     
     <item>
       <title>Myfirstpost</title>
-      <link>http://localhost:1313/post/myfirstpost/</link>
+      <link>http://kkyinli.github.io/notes/post/myfirstpost/</link>
       <pubDate>Sun, 17 Dec 2017 13:31:08 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/myfirstpost/</guid>
+      <guid>http://kkyinli.github.io/notes/post/myfirstpost/</guid>
       <description>This is my first post</description>
     </item>
     
     <item>
       <title>English Creating a New Theme</title>
-      <link>http://localhost:1313/post/english-preview/</link>
+      <link>http://kkyinli.github.io/notes/post/english-preview/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/english-preview/</guid>
+      <guid>http://kkyinli.github.io/notes/post/english-preview/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
@@ -70,10 +70,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>日本語 敬語体系</title>
-      <link>http://localhost:1313/post/japanese-preview/</link>
+      <link>http://kkyinli.github.io/notes/post/japanese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:53:34 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/japanese-preview/</guid>
+      <guid>http://kkyinli.github.io/notes/post/japanese-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;日本語の敬語体系は、一般に、大きく尊敬語・謙譲語・丁寧語に分類される。文化審議会国語分科会は、2007年2月に「敬語の指針」を答申し、これに丁重語および美化語を含めた5分類を示している。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -87,10 +87,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>中文 《长恨歌》</title>
-      <link>http://localhost:1313/post/chinese-preview/</link>
+      <link>http://kkyinli.github.io/notes/post/chinese-preview/</link>
       <pubDate>Wed, 30 Aug 2017 01:37:56 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/chinese-preview/</guid>
+      <guid>http://kkyinli.github.io/notes/post/chinese-preview/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;《长恨歌》是中国唐朝诗人白居易的一首长篇叙事诗。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -110,10 +110,10 @@ It makes use of a variety of open source projects including:
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/post/syntax-highlighting/</link>
+      <link>http://kkyinli.github.io/notes/post/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/syntax-highlighting/</guid>
+      <guid>http://kkyinli.github.io/notes/post/syntax-highlighting/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-js&#34;&gt;function helloWorld () {
   alert(&amp;quot;Hello, World!&amp;quot;)
 }
