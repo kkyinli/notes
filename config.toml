@@ -29,23 +29,23 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
 [[menu.main]]             # config your menu              # 配置目录
   name = "Archive"
-  weight = 20
+  weight = 30
   identifier = "archive"
   url = "/post/"
 [[menu.main]]
-  name = "Note"
-  weight = 30
-  identifier = "note"
+  name = "Notes"
+  weight = 20
+  identifier = "notes"
   url = "/"
 [[menu.main]]
-  name = "Categorie"
+  name = "Categories"
   weight = 40
-  identifier = "categorie"
+  identifier = "categories"
   url = "/Categories/"
 [[menu.main]]
-  name = "Tag"
-  weight = 50
-  identifier = "tag"
+  name = "Tags"
+  weight = 40
+  identifier = "tags"
   url = "/tags/"
 
 
