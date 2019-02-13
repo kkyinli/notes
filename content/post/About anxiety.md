@@ -2,7 +2,7 @@
 date = 2019-02-13
 draft = false
 tags = ["Writing", "Kelly"]
-title = "1_ABOUT ANXIETY"
+title = "ABOUT ANXIETY"
 categories: ["English"]
 author: "Kelly Yin"
 +++
