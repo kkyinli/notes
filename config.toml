@@ -33,9 +33,9 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   identifier = "archive"
   url = "/post/"
 [[menu.main]]
-  name = "Notes"
+  name = "Blog"
   weight = 20
-  identifier = "notes"
+  identifier = "Blog"
   url = "/"
 [[menu.main]]
   name = "Categories"
