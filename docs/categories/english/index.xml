@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>English on YinLi&#39;s Notes</title>
+    <title>English on YinLi&#39;s&#39;Notes</title>
     <link>http://kkyinli.github.io/notes/categories/english/</link>
-    <description>Recent content in English on YinLi&#39;s Notes</description>
+    <description>Recent content in English on YinLi&#39;s&#39;Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Aug 2017 15:43:48 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Feb 2019 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="http://kkyinli.github.io/notes/categories/english/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>English Creating a New Theme</title>
-      <link>http://kkyinli.github.io/notes/post/english-preview/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
+      <title>ABOUT ANXIETY</title>
+      <link>http://kkyinli.github.io/notes/post/about-anxiety/</link>
+      <pubDate>Wed, 13 Feb 2019 00:00:00 +0800</pubDate>
       
-      <guid>http://kkyinli.github.io/notes/post/english-preview/</guid>
-      <description>&lt;h2 id=&#34;introductions&#34;&gt;Introductions&lt;/h2&gt;
-
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <guid>http://kkyinli.github.io/notes/post/about-anxiety/</guid>
+      <description>#About anxiety
+I don&amp;rsquo;t think it a good sigh for my recently dysphoric. I can&amp;rsquo;t figure out the reason. But I feel the pressure. I dislike it. But I can&amp;rsquo;t expel them.
+So I try to figure out what happened to me recently?
+What caused my anxiety?
+What makes me worried?
+How could I solve them?
+Xiaobo Wang had said, the origin of pain comes from the scarce capacity. I did.</description>
     </item>
     
   </channel>

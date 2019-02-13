@@ -1,9 +1,9 @@
 +++
 date = 2019-02-13
 draft = false
-tags : ["Writing", "Kelly"]
+tags = ["Writing", "Kelly"]
 title = "ABOUT ANXIETY"
-categories: ["English"]
+categories = ["English"]
 author = "Kelly Yin"
 +++
 
