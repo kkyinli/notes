@@ -7,9 +7,6 @@ categories = ["emotion"]
 author = "Kelly Yin"
 +++
 
-# OUT OF MIND
-
-
 
 Many different kinds of thoughts came in my mind which gave rise to my absent-mindedness.
 

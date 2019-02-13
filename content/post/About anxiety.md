@@ -7,8 +7,6 @@ categories = ["emotion"]
 author = "Kelly Yin"
 +++
 
-# About anxiety
-
 
 
 I don't think it a good sigh for my recently dysphoric. I can't figure out the reason. But I feel the pressure. I dislike it. But I can't expel them.
