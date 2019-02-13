@@ -1,10 +1,10 @@
 +++
 date = 2019-02-13
-draft : false
+draft = false
 tags : ["Writing", "Kelly"]
-title : "ABOUT ANXIETY"
+title = "ABOUT ANXIETY"
 categories: ["English"]
-author: "Kelly Yin"
+author = "Kelly Yin"
 +++
 
 #About anxiety
